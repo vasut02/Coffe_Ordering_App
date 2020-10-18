@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Coffe Ordering </string>
+    <string name="quantity">QUANTITY</string>
+    <string name="textview">2</string>
+    <string name="order">ORDER</string>
+    <string name="topping">TOPPING</string>
+    <string name="order_summary">ORDER SUMMARY</string>
+</resources>
